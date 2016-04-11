@@ -13,6 +13,8 @@
 @property NSString *a;
 
 @property NSString *b;
+@property NSString *d;
+
 
 @end
 
